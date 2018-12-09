@@ -1,4 +1,4 @@
-# mern_simple
+# mern-simple
 
 * ```npm run development:``` This command will get Nodemon, Webpack, and the server started for development
 * ```npm run build:``` This will generate the client and server code bundles for production mode (before running this script, make sure to remove the devBundle.compile code from server.js)
